@@ -1,4 +1,4 @@
-# TU CN101 Summer Bootcamp67
+# TU CN101 Summer Bootcamp 67
 
 ## Tentative Schedule
 | Date | Morning-1  |  Morning-2   | Afternoon-1 | Afternoon-2 |
