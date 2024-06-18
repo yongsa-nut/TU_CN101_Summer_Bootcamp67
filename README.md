@@ -10,6 +10,11 @@
 |  3 August  | [Lab 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_Summer_Bootcamp67/blob/main/Lab_2.ipynb)    | [Lab 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_Summer_Bootcamp67/blob/main/Lab_2.ipynb)      | [Project](https://colab.research.google.com/github/yongsa-nut/TU_CN101_Summer_Bootcamp67/blob/main/Project_Tic_Tac_Toe.ipynb)                   | [Project](https://colab.research.google.com/github/yongsa-nut/TU_CN101_Summer_Bootcamp67/blob/main/Project_Tic_Tac_Toe.ipynb)      |
 |  5 August  | Competition   | Competition   | -               | -      |
 
+## Points
+- Exercise (5 points each) = 35 points
+- Lab and project (10 points each) = 30 points
+- Competition = 35 points
+- Total = 100 points
 
 
 
