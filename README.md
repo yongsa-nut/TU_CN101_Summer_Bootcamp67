@@ -1,6 +1,9 @@
 # TU CN101 Summer Bootcamp 67
 
 ## Tentative Schedule
+- Morning: 9:00 - 12:00
+- Afternoon: 13:00 - 16:00
+
 | Date | Morning-1  |  Morning-2   | Afternoon-1 | Afternoon-2 |
 | ---- | -------- | --------- | -------- | -------- |
 |  30th July  | [Input/Output/Processing](https://docs.google.com/presentation/d/1_rpSKwrytpEiFDTBqARuItxK5t1EbTAegMqaiyJ_4Nw/edit?usp=sharing)  | [Practice 1](https://colab.research.google.com/github/yongsa-nut/TU_CN101_Summer_Bootcamp67/blob/main/InputOutput.ipynb)   | [Decision Structures](https://docs.google.com/presentation/d/1O-so2Hb3EE-EtygBuK2-M2otGSnUe31eZfAKtlNqxwM/edit?usp=sharing) | [Practice 2](https://colab.research.google.com/github/yongsa-nut/TU_CN101_Summer_Bootcamp67/blob/main/Condition_Exercise.ipynb) |
